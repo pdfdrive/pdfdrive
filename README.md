@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pdfdrive
-- 👀 I’m interested in [App Development](https://www.wikipedia.org/wiki/Mobile_app_development, (More about App Development))
+- 👀 I’m interested in [App Development](https://en.wikipedia.org/wiki/Mobile_app_development, (More about App Development))
 - 🌱 I’m currently learning [.Net](https://en.wikipedia.org/wiki/.NET, (More about .NET)) and [C++](https://en.wikipedia.org/wiki/C%2B%2B, (More about C++))
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to just email me on [pdfdrive@mail.com](mailto:limbuinogen@gmail.com, (Email to me))
